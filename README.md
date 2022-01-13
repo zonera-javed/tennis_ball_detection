@@ -19,3 +19,10 @@ This project uses python3 along with the following libraries.
 
 ### To Run
 To install the dependencies and run this project, clone this repository and run the "install_and_run" script. 
+
+If you don't need to install the dependencies, then you can run the following command in a terminal from the tennis_ball_detection directory.
+
+`python3 tennis_ball_detection.py -input_video "RollingTennisBall.mov" `
+
+If you'd like to step through the annotated video frame by frame, you can use the "-s" option.
+
